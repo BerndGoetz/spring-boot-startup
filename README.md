@@ -13,11 +13,12 @@ application is started via it's jar file.
 Timings are taken on a 2013 MacBook Pro with 2.6 GHz Intel Core i7
 processors and 16 GB memory.
 
-## Jar File Startup Timings 
+## Jar file startup timings
+(run as java -jar target/reservation-service-0.0.1-SNAPSHOT.jar)
 * Started DemoApplication in 34.236 seconds (JVM running for 35.851)
 * Started DemoApplication in 40.405 seconds (JVM running for 42.517)
 
-## DemoApplication Startup Timings
-()From IntelliJ)
+## DemoApplication main method startup timings
+(From IntelliJ)
 * Started DemoApplication in 5.283 seconds (JVM running for 5.672) (run mode)
 * Started DemoApplication in 6.62 seconds (JVM running for 7.102) (debug mode)
